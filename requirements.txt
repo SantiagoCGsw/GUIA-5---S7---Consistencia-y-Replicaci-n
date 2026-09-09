@@ -1,0 +1,3 @@
+# El paquete banco_distribuido solo usa la librería estándar de Python.
+# pytest es necesario únicamente para ejecutar las pruebas en tests/.
+pytest>=7.0

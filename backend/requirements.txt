@@ -1,0 +1,4 @@
+# Dependencias del backend (API que alimenta la interfaz React).
+fastapi>=0.110
+uvicorn[standard]>=0.27
+websockets>=12.0
